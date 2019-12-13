@@ -1,5 +1,5 @@
 #
-# This is free software, lisence use MIT.
+# This is free software, lisence use MIT
 # 
 # Copyright (C) 2019 P3TERX <https://p3terx.com>
 # Copyright (C) 2019 KFERMercer <KFER.Mercer@gmail.com>
@@ -138,6 +138,7 @@ jobs:
           # CONFIG_PACKAGE_vim-fuller=y
           # CONFIG_PACKAGE_wget=y
           # EOF
+
 
           # 取消编译VMware镜像以及镜像填充 (不要删除被缩进的注释符号):
           # cat >> .config <<EOF
